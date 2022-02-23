@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=""C:\Users\mayan\Downloads\Mxyank.jpeg"" width="180">
+    <img src="Mxyank.jpeg" width="180">
 </p>
 <h2 align="center"> Hey, I am Mayank Agrawal (he/him)👋 </h2>
 <h3 align="center"> DevOps🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
