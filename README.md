@@ -19,7 +19,13 @@
 
 - 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](file:///D:/Express%20js/myapp/public/index.html)
 
----
+### Want To Contact Me? 📱
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank -blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-agrawal-bb04901b7/](https://www.linkedin.com/in/mayank-agrawal-bb04901b7/)
+[![Instagram Badge](https://img.shields.io/badge/-__mayank28-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/__mayank28/)](https://www.instagram.com/__mayank28/)
+
+[![Gmail Badge](https://img.shields.io/badge/shreeagrawal2002@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:shreeagrawal2002@gmail.com)](mailto:shreeagrawal2002@gmail.com)
+
 
 
 
