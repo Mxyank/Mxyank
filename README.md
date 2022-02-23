@@ -26,6 +26,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/shreeagrawal2002@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:shreeagrawal2002@gmail.com)](mailto:shreeagrawal2002@gmail.com)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-agrawal-bb04901b7/)](https://www.linkedin.com/in/mayank-agrawal-bb04901b7/)
+
 <p align="center">
 <a href="https://github.com/Mxyank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mxyank&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
