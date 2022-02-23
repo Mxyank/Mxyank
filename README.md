@@ -1,6 +1,6 @@
 # Hi, I'm Mxyank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-#                                                                                                                <table> <tr> <td valign="center"> 
+# About Me                                                                                                                <table> <tr> <td valign="center"> 
   🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. 
   
   🌱 I am currently learning **Java** and also interested in **Web Development**.
