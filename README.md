@@ -11,5 +11,7 @@
   
   <a href="https://app.daily.dev/Astrodevil">
     
-    # Mxyank Contributin graph ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)
+    # Mxyank Contributin graph 
+    
+    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)
   
