@@ -1,41 +1,62 @@
-<p align="center">
-    <img src="12.png" width="1000">
-</p>
-<h2 align="center"> Hey, I am Mayank Agrawal (he/him)👋 </h2>
-<h3 align="center"> DevOps🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mayank Agrawal!
 
----
+![](https://komarev.com/ghpvc/?username=kybuivan&style=flat-square&label=Views)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-### Experience 📈
+## Backend Systems and Software Developer
 
-- 
-- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/3686)](https://studentambassadors.microsoft.com/en-US/profile/3686) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&logo=major-league-hacking&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Google Developer Student Club](https://img.shields.io/badge/-Google_Developer_Student_Club:VIT,_Amravati-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/) 
+As a self-taught developer with years of experience in C++ and backend technologies, I am keenly interested in DevOps engineering. I enjoy working with the intricacies of C++ and am constantly seeking new challenges in the field. My passion for software development is evident in my commitment to learning and staying up-to-date with industry trends and technologies.
 
-- 🔭 Have played around with: ![Xamarin.Forms](https://img.shields.io/badge/-Xamarin.Forms-blue?style=plastic&logo=xamarin&logoColor=white) ![.NET](http://img.shields.io/badge/-.NET_Core-purple?style=plastic&logo=.Net&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=plastic&amp;logo=.Net&amp;logoColor=white) ![C#](http://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=plastic&logo=microsoft-azure&logoColor=blue) ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=plastic&amp;logo=mysql&amp;logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-green?style=plastic&logo=Microsoft-SQL-Server) ![Twilio](https://img.shields.io/badge/-Twilio-navy?style=plastic&logo=twilio) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
-
-- 🔧 Using the following tools: ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-violet?style=plastic&logo=visual-studio) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
-
-- 🌱 Currently learning:  ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb) ![PHP](https://img.shields.io/badge/-PHP-black?style=plastic&amp;logo=php&amp;logoColor=white)
-
-- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](file:///D:/Express%20js/myapp/public/index.html)
-
-### Want To Contact Me? 📱
-
-
-[![Instagram Badge](https://img.shields.io/badge/-__mayank28-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/__mayank28/)](https://www.instagram.com/__mayank28/)
-
-[![Gmail Badge](https://img.shields.io/badge/shreeagrawal2002@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:shreeagrawal2002@gmail.com)](mailto:shreeagrawal2002@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mayank-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-agrawal-bb04901b7/)](https://www.linkedin.com/in/mayank-agrawal-bb04901b7/)
-
-<p align="center">
-<a href="https://github.com/Mxyank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mxyank&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxyank&theme=algolia"/>
+<a target="_blank" align="center">
+  <img align="right" width="42%" alt="GIF"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </a>
+
+- 🌍 I'm based in Hanoi
+- 🖥️ See my portfolio at [https://mxyank.netlify.app/)
+- ✉️ You can contact me at [agrawalmayank200228@gmail.com](mailto:agrawalmayank200228@gmail.com)
+- 🚀 I'm currently a student
+- 🧠 I'm learning c++20 modules
+- 🤝 I'm open to collaborating on any open-source project
+- ⚡ I would love to help you study Backned , CI/CD and C++
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="36" height="36" alt="GitHub" title="GitHub" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="36" height="36" alt="GitLab" title="GitLab" /></a>
+<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="36" height="36" alt="CI/CD" title="CI/CD" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code" /></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="36" height="36" alt="Windows" title="Windows" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" width="36" height="36" alt="Godot" title="Godot" /></a>
+
 </p>
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/mxyank" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
+<div align="center">
 
-  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+### GitHub Profile Trophy
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mxyank&theme=algolia&no-frame=false&no-bg=false&margin-w=8&column=-1"/></p>
+
+### GitHub Stats
+
+<div align="right">
+  <a href="">
+    <img alt="Error using wakatime API, reload the page to try again" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kybuivan&theme=dracula&Cache-Control=no-cache"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mxyank&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1%22%20width=%2250%%22%20alt=%22stats%20graph"/>
+  <img src="https://streak-stats.demolab.com/?user=mxyank&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3%22%20width=%2250%%22%20alt=%22streak%20graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mxyank&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22%20width=%2250%%22%20alt=%22languages%20graph"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/kybuivan/kybuivan/output/snake.svg" alt="Snake Animation" width="100%"/>
